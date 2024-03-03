@@ -1,0 +1,14 @@
+.AppBar a {
+  color: inherit;
+  text-decoration: none;
+  margin-right: 16px;
+  }
+
+  .MenuLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.MenuLink:hover {
+    color: rgb(89, 135, 71);
+}
